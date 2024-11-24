@@ -1,0 +1,50 @@
+body {
+
+    background-color: #bb0303;
+    text-align: center;
+    align-items: center;
+    color: #D7F2BA;
+}
+
+h1 {
+    background-color: #511C29;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.inicio {
+    text-align: center;
+    background-color: #D7F2BA;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+}
+
+.elemento {
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+.imagen {
+    border-radius: 10%;
+    margin: 2.5%;
+    width: 20%;
+
+}
+
+.imagen-vol {
+    border-radius: 10%;
+    margin: 2.5%;
+    width: 20%;
+
+}
+
+.juego {
+    width: 450px;
+    margin: auto;
+
+
+}
